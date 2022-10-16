@@ -1,6 +1,6 @@
 import com.alibaba.fastjson.JSON;
 
-public class Solution088 {
+public class Solution0088 {
 
 
     public static int[] merge(int[] nums1, int m, int[] nums2, int n) {
